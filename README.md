@@ -24,9 +24,9 @@ Demo: https://wanruzhao.github.io/homework-6-particle-system-WanruZhao/
 ## Mesh
   - Bird and pumpkin
   
-bird | pumpkin
-:--:|:--:
-![](./res/bird2.png) | ![](./res/pump.png)
+
+<img src="./res/bird2.png" width="800" height="800">
+<img src="./res/pump.png" width="800" height="800">
 
 ## Reference
 
