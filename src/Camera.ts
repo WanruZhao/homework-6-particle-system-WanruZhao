@@ -20,8 +20,8 @@ class Camera {
     const canvas = <HTMLCanvasElement> document.getElementById('canvas');
 
     this.controls = CameraControls(canvas, {
-      position: position,
-      center: target,
+      eye: position,
+      position: target,
     });
 
     vec3.add(this.target, this.position, this.direction);
